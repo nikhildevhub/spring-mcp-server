@@ -1,0 +1,4 @@
+### GET request to example server
+GET "localhost:8080/tools/chat?message=What+time+is+it+in+Tokyo?"
+
+###
